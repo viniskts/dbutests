@@ -1,3 +1,0 @@
-local users = {'MeninoTristao'};
-local yo = game:GetService('Players').LocalPlayer
-local pase = false
